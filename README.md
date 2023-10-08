@@ -4,7 +4,7 @@ This is a node demo application using the express js server and MongoDB database
 ![Screenshot](node-demo-app-home-page.jpg)
 
 Insert data
-![Screenshot](node-demo-app-insert-data)
+![Screenshot](node-demo-app-insert-data.jpg)
 
 Fetch data
 ![Screenshot](node-demo-app-fetch-data.jpg)
